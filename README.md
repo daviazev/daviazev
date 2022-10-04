@@ -18,7 +18,7 @@ Fun fact: I was a violinist for 9 years, and in that time I ended up becoming a 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,git,github,jest,mysql,nodejs,docker,linux)](https://skillicons.dev)
 
 <table>
-    <h4>ENTRE EM CONTATO</h4>
+    <h4>Contact</h4>
     <a href="https://www.linkedin.com/in/davi-azevedo-a62267206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:azvd.davi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E?style=for-the-badge&logo=Gmail&logoColor=red" /></a>
 </table>

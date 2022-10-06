@@ -1,10 +1,13 @@
-## Hello, I'm a web developer!
+## Hello, I'm a web developer! 🤓
 
 My name is Davi Azevedo, I always wondered what career I wanted for my life. I dreamed of being a lawyer, chemist and even a musician. However, it was with technology that I found the best space for me to make a difference. It was in my first "Hello World" that I decided how I was going to invest the years of my life.
 
 Currently, I study full stack web development at Trybe, a programming school where we learn to develop and also to work.
 
-Fun fact: I was a violinist for 9 years, and in that time I ended up becoming a teacher at the school where I studied.
+🌱 Fun facts: 
+
+- I was a violinist for 9 years before I became a web developer 🎻
+- I have more than 500 offensive days on [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
 
 <center>
 <table>

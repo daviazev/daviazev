@@ -22,6 +22,6 @@ Currently, I study full stack web development at Trybe, a programming school whe
 
 <table>
     <h4>CONTACT</h4>
-    <a href="https://www.linkedin.com/in/davi-azevedo-a62267206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/daviazev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:azvd.davi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E?style=for-the-badge&logo=Gmail&logoColor=red" /></a>
 </table>

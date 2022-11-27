@@ -7,7 +7,7 @@ Currently, I study full stack web development at Trybe, a programming school whe
 🌱 Fun facts: 
 
 - I was a violinist for 9 years before I became a web developer 🎻
-- I have more than 500 offensive days on [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
+- I have more than 600 offensive days on [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
 
 <center>
 <table>

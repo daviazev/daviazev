@@ -1,13 +1,13 @@
-## Hello, I'm a web developer! 🤓
+## Olá eu sou desenvolvedor de software! 🤓
 
-My name is Davi Azevedo, I always wondered what career I wanted for my life. I dreamed of being a lawyer, chemist and even a musician. However, it was with technology that I found the best space for me to make a difference. It was in my first "Hello World" that I decided how I was going to invest the years of my life.
+Meu nome é Davi Azevedo, sempre me perguntei qual carreira eu queria para minha vida. Sonhava em ser advogado, químico e até músico. Porém, foi com a tecnologia que encontrei o melhor espaço para eu fazer a diferença. Foi no meu primeiro "Hello World" que decidi como iria investir os anos da minha vida.
 
-Currently, I study full stack web development at Trybe, a programming school where we learn to develop and also to work.
+Atualmente, estudo desenvolvimento web full stack na Trybe, uma escola de programação onde aprendemos a desenvolver e também a trabalhar.
 
-🌱 Fun facts: 
+🌱 Fun facts:
 
-- I was a violinist for 9 years before I became a web developer 🎻
-- I have more than 600 offensive days on [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
+- Fui violinista por 9 anos antes de me tornar um desenvolvedor web 🎻
+- Tenho mais de 500 dias ofensivos no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
 
 <center>
 <table>
@@ -18,10 +18,10 @@ Currently, I study full stack web development at Trybe, a programming school whe
 </table>
 </center>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,git,github,jest,mysql,nodejs,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,git,github,jest,mysql,nodejs,typescript,docker,linux)](https://skillicons.dev)
 
 <table>
-    <h4>CONTACT</h4>
-    <a href="https://www.linkedin.com/in/daviazev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <h4>ENTRE EM CONTATO!</h4>
+    <a href="https://www.linkedin.com/in/davi-azevedo-a62267206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:azvd.davi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E?style=for-the-badge&logo=Gmail&logoColor=red" /></a>
 </table>

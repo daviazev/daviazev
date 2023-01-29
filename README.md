@@ -7,7 +7,7 @@ Atualmente, estudo desenvolvimento web full stack na Trybe, uma escola de progra
 🌱 Fun facts:
 
 - Fui violinista por 9 anos antes de me tornar um desenvolvedor web 🎻
-- Tenho mais de 500 dias ofensivos no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
+- Tenho mais de 600 dias de ofensiva no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
 
 <center>
 <table>

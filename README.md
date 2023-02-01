@@ -24,4 +24,5 @@ Atualmente, estudo desenvolvimento web full stack na Trybe, uma escola de progra
     <h4>ENTRE EM CONTATO!</h4>
     <a href="https://www.linkedin.com/in/davi-azevedo-a62267206/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:azvd.davi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E?style=for-the-badge&logo=Gmail&logoColor=red" /></a>
+    <a href="https://wa.me/5511945000891" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </table>

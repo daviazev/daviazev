@@ -12,13 +12,13 @@ Meu nome é Davi Azevedo, sempre me perguntei qual carreira eu queria para minha
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviazev&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviazev&theme=buefy"/></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviazev&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="460px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviazev&theme=buefy"/></td>
     </tr>
 </table>
 </center>
 
-<h3 align="left">Tecnologias</h3>
+<h2 align="left">Tecnologias e Ferramentas</h2>
 <table width="320px" align="left" border="0">
     <tr>
     <th><img height="32px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></th>

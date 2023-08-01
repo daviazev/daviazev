@@ -7,7 +7,7 @@ Meu nome é Davi Azevedo, sempre me perguntei qual carreira eu queria para minha
 🌱 Curiosidades:
 
 - Fui violinista por 9 anos antes de me tornar um desenvolvedor web 🎻
-- Tenho mais de 700 dias de ofensiva no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
+- Tenho mais de 800 dias de ofensiva no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
 
 <center>
 <table>

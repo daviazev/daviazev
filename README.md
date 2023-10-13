@@ -2,7 +2,7 @@
 
 Meu nome é Davi Azevedo, sempre me perguntei qual carreira eu queria para minha vida. Sonhava em ser advogado, químico e até músico. Porém, foi com a tecnologia que encontrei o melhor espaço para eu fazer a diferença. Foi no meu primeiro "Hello World" que decidi como iria investir os anos da minha vida.
 
-🔭 Atualmente, estudo desenvolvimento web na Trybe e pretendo ser desenvolvedor front-end.
+🔭 Atualmente, trabalho como freelancer em um projeto chamado Fixer, que é uma plataforma que utiliza a técnica de repetição espaçada para auxiliar estudantes na memorização de conteúdos
 
 🌱 Curiosidades:
 

@@ -35,13 +35,9 @@ Atualmente trabalho como freelancer, mas estou aberto a novas oportunidades.
         <th><img height="32px" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" /></th>
         <th><img height="32px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></th>
     </tr>
-    <tr>
-    </tr>
 </table>
 
 <table>
-    <h2>ENTRE EM CONTATO!</h2>
     <a href = "mailto:azvd.davi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/daviazev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </table>

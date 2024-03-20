@@ -9,7 +9,7 @@ Atualmente trabalho como freelancer, mas estou aberto a novas oportunidades.
 🌱 Curiosidades:
 
 - Fui violinista por 9 anos antes de me tornar um desenvolvedor web 🎻
-- Tenho mais de 900 dias de ofensiva no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
+- Tenho mais de 1000 dias de ofensiva no [Duolingo](https://www.duolingo.com/profile/daviazev) 🌎
 
 
 <h2 align="left">Tecnologias e Ferramentas</h2>

@@ -1,12 +1,12 @@
-## Welcome to my GitHub!
+## Welcome to my GitHub! 👋
 
-Hello, my name is Davi Azevedo and I am passionate about science and technology. Since I wrote my first lines of code in 2021, I knew what my biggest investment in the coming years would be: my career in programming.
+Hello, my name is Davi Azevedo and I am passionate about science and technology. Since I wrote my first lines of code in 2021, I knew what my biggest investment in the coming years would be: my career in programming. 💻🚀
 
 Since then, I have taken several courses and today I am a graduate of Trybe, where I developed skills that enabled me to work as a web developer.
 
-I currently work as a freelancer, but I am open to new opportunities. You can check out my portfolio [here](https://daviazev.vercel.app/) to see some of the projects I've worked on.
+I currently work as a freelancer, but I am open to new opportunities. You can check out my portfolio [here](https://daviazev.vercel.app/) to see some of the projects I've worked on. 🌟
 
-I am also studying mathematics on my own through Khan Academy because I have a strong interest in it and I plan to pursue a degree in Computer Science soon.
+I am also studying mathematics on my own through Khan Academy because I have a strong interest in it and I plan to pursue a degree in Computer Science soon. 📚🔢
 
 🌱 Fun Facts:
 

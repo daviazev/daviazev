@@ -6,6 +6,8 @@ Since then, I have taken several courses and today I am a graduate of Trybe, whe
 
 I currently work as a freelancer, but I am open to new opportunities. You can check out my portfolio [here](https://daviazev.vercel.app/) to see some of the projects I've worked on.
 
+I am also studying mathematics on my own through Khan Academy because I have a strong interest in it and I plan to pursue a degree in Computer Science soon.
+
 🌱 Fun Facts:
 
 - I was a violinist for 9 years before becoming a web developer 🎻

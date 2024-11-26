@@ -1,14 +1,15 @@
 ## Welcome to my GitHub! 👋
 
-Hello, my name is Davi Azevedo and I am passionate about science and technology. Since I wrote my first lines of code in 2021, I knew what my biggest investment in the coming years would be: my career in programming. 💻🚀
+Hello, my name is Davi Azevedo, and I am passionate about science and technology. Since writing my first lines of code in 2021, I decided to fully dedicate myself to a career in programming. 💻🚀
 
-Since then, I have taken several courses and today I am a graduate of Trybe, where I developed skills that enabled me to work as a web developer.
+Since then, I have completed several courses and graduated from Trybe, where I developed skills that prepared me to work as a web developer. I currently work as a freelancer, specializing in building responsive web applications and collaborating with clients to create custom solutions. 🌟
 
-I currently work as a freelancer, but I am open to new opportunities. You can check out my portfolio [here](https://daviazev.vercel.app/) to see some of the projects I've worked on. 🌟
+You can check out my portfolio [here](https://daviazev.vercel.app/) to explore projects like a dynamic task management app and an e-commerce platform simulation. 🛠️✨
 
-I am also studying mathematics on my own through Khan Academy because I have a strong interest in it and I plan to pursue a degree in Computer Science soon. 📚🔢
+📚 In addition to programming, I am studying mathematics independently through Khan Academy. I have a strong interest in the subject and plan to start a Computer Science degree in the near future. 🔢🎓
 
-🌱 Fun Facts:
+🌱 **Fun Facts**:  
+- 🎻 I played the violin for 9 years before transitioning to web development.  
+- 🌍 I have over 1200 days of streak on [Duolingo](https://www.duolingo.com/profile/daviazev) and am currently learning Italian! 🇮🇹  
 
-- I was a violinist for 9 years before becoming a web developer 🎻
-- I have over 1100 days of streak on [Duolingo](https://www.duolingo.com/profile/daviazev), and I'm currently learning Esperanto 🌎
+Feel free to connect with me — I'm always open to new opportunities and collaborations! 🤝

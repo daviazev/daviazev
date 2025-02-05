@@ -9,7 +9,6 @@ You can check out my portfolio [here](https://daviazev.vercel.app/) to explore p
 📚 In addition to programming, I am studying mathematics independently through Khan Academy. I have a strong interest in the subject and plan to start a Computer Science degree in the near future. 🔢🎓
 
 🌱 **Fun Facts**:  
-- 🎻 I played the violin for 9 years before transitioning to web development.  
-- 🌍 I have over 1200 days of streak on [Duolingo](https://www.duolingo.com/profile/daviazev) and am currently learning Italian! 🇮🇹  
+- 🎻 I played the violin for 9 years before transitioning to web development. 
 
 Feel free to connect with me — I'm always open to new opportunities and collaborations! 🤝
